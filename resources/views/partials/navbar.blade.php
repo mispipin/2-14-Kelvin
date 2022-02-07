@@ -15,6 +15,9 @@
         <li class="nav-item">
           <a class="nav-link {{ ( $title === 'gallery') ? 'active' : ''}}" href="/gallery">gallery</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link {{ ( $title === 'contacts') ? 'active' : ''}}" href="/contacts">Contact Us</a>
+        </li>
       </ul>
     </div>
   </div>
